@@ -1,0 +1,9 @@
+[user]
+	email = burhan14031@iiitd.ac.in
+	name = burhan
+[alias]
+	co = checkout
+	s = status
+	conflicts = diff --name-only --diff-filter=U
+	cm = commit -m	
+	
